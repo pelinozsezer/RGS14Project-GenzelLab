@@ -1,3 +1,2 @@
 
-https://www.genzellab.com/   
-https://github.com/genzellab/RGS14
+All scripts are also uploaded to https://github.com/genzellab/RGS14
